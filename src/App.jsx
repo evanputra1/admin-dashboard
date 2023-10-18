@@ -9,7 +9,7 @@ import { Orders, Line, Kanban, Employees, Editor, Ecommerce, Customers, ColorPic
 import './App.css';
 
 const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
 
   return (
     <div>
